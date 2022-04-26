@@ -7,11 +7,11 @@ relative_links:
 
 theme: jekyll-theme-slate
 
-title: "CS477"
+title: "Coding FreeRun"
 description: "Artificial Intelligence"
 
-url                      : https://ursinus-cs477-f2021.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Modules" # the subpath of your site, e.g. "/blog"
+url                      : https://codingfreerun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/LiveCoding" # the subpath of your site, e.g. "/blog"
     
 # Reading Files
 include:

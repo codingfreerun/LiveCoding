@@ -109,7 +109,7 @@ mynetid: ctralie
         {{ layout.submitformlinkdirections }}<br>
         {% endif %}
 
-        <button type = "button" onclick = "runCode" id="runbutton">▶ Run</button>
+        <button type = "button" onclick = "runCode()" id="runbutton">▶ Run</button>
         </p>
         
         <!-- Must name main file "main" and the div tag here/css/processing code below is hardcoded to mainEditor -->
@@ -258,6 +258,7 @@ mynetid: ctralie
         }
 
         function runCode() {
+            console.log("Got here");
             try {
                 numAttempts++;
                 let student_code = "";

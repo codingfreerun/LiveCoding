@@ -8,7 +8,7 @@ relative_links:
 theme: jekyll-theme-slate
 
 title: "Coding FreeRun"
-description: "Artificial Intelligence"
+description: "Coding for fun without having to install stuff on your computer!"
 
 url                      : https://codingfreerun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/LiveCoding" # the subpath of your site, e.g. "/blog"
